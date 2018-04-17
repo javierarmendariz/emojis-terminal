@@ -58,4 +58,4 @@ rm -rf fonts
 # 5. Select the new Profile created in the General tab
 # 6. Restart the Terminal
 # 7. Result
-![Result](/result.png)
+![Result](/result2.png)
