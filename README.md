@@ -39,7 +39,7 @@ BULLETTRAIN_GIT_CLEAN=" 😎"
 BULLETTRAIN_GIT_ADDED="🚜"
 ```
 
-# 3. Install Powerline Fonts
+## 3. Install Powerline Fonts
 (https://github.com/powerline/fonts#quick-installation)
 ```
 # clone
@@ -52,10 +52,10 @@ cd ..
 rm -rf fonts
 ```
 
-# 4. Create a new Profile in the Terminal (oh-my-zsh) and set the colors as follow:
+## 4. Create a new Profile in the Terminal (oh-my-zsh) and set the colors as follow:
 ![Expected result](/profile2.png)
 
-# 5. Select the new Profile created in the General tab
-# 6. Restart the Terminal
-# 7. Result
+## 5. Select the new Profile created in the General tab
+## 6. Restart the Terminal
+## 7. Result
 ![Result](/result2.png)
