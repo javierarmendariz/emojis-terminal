@@ -53,7 +53,7 @@ rm -rf fonts
 ```
 
 # 4. Create a new Profile in the Terminal (oh-my-zsh) and set the colors as follow:
-![Expected result](/profile.png)
+![Expected result](/profile2.png)
 
 # 5. Select the new Profile created in the General tab
 # 6. Restart the Terminal
